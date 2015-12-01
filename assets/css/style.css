@@ -3,3 +3,17 @@
   border-right: 1px solid black;
   height: 1080px;
 }
+
+body {
+  margin: 0;
+  background: url('../../images/barb.jpg')
+  background-size: 1440px 800px;
+  background-repeat: no-repeat;
+  display: compact;
+  font: 13px/18px "Helvetica Nue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+}

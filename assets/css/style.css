@@ -7,7 +7,9 @@
 body {
   margin: 0;
   background: url('../../images/barb.jpg');
+  background-size: contain;
   background-repeat: no-repeat;
+
 }
 
 h1 {

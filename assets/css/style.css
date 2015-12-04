@@ -6,8 +6,8 @@
 
 body {
   margin-left: 200;
-  background: url('../../images/barb.jpg');
-  background-size: 1400px 1400px;
+  background: ('../../images/barb.jpg');
+  background-size: 1400px 1800px;
   background-repeat: no-repeat;
 
 }

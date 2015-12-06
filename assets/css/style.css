@@ -6,7 +6,7 @@
 
 body {
   margin: 0;
-  background: url('../../images.barb.jpg');
+  background: url("../../images.barb.jpg");
   background-size: 1400px 1000px;
   background-repeat: no-repeat;
   background-position: center;

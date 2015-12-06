@@ -6,9 +6,10 @@
 
 body {
 
-  background-image:url("../../images.barb.jpg");
+  background-image: url('../../images.barb.jpg');
   background-size: 1400px 1400px;
   background-repeat: no-repeat;
+  background-position: center;
 
 }
 

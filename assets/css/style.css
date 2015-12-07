@@ -19,3 +19,7 @@ h1 {
   font-family:fantasy;
   color: black;
 }
+
+.container-fluid {
+  margin-top: 300px;
+}

@@ -25,3 +25,9 @@ h1 {
   color: white;
   font-weight: bold;
 }
+
+#sentence1 {
+  color: blue;
+  font-size: 20px;
+  text-align: center;
+}

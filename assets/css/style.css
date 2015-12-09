@@ -44,3 +44,11 @@ h1 {
   color: black;
   text-align: center;
 }
+
+#contacttitle {
+  color: white;
+  font-size: 150px;
+  text-align: center;
+  font-family: serif;
+
+}

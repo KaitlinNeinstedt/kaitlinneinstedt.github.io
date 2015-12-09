@@ -40,11 +40,18 @@ h1 {
   font-weight: bold;
 }
 
-#aboutparagraph {
+#aboutparagraph1 {
   font-size: 20px;
   color: white;
   text-align: center;
-  margin-left: 550px;
+  margin-left: 300px;
+}
+
+#aboutparagraph2 {
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  margin-left: 700px;
 }
 
 #contacttitle {

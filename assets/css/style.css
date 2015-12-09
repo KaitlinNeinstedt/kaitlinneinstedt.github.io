@@ -37,12 +37,14 @@ h1 {
   color: black;
   font-size: 40px;
   text-align: center;
+  font-weight: bold;
 }
 
 #aboutparagraph {
   font-size: 20px;
   color: white;
   text-align: center;
+  margin-left: 200px;
 }
 
 #contacttitle {

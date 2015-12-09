@@ -26,8 +26,9 @@ h1 {
   font-weight: bold;
 }
 
-#aboutsentences {
-  color: red;
-  font-size: 40px;
+#abouttitle {
+  color: white;
+  font-size: 150px;
   text-align: center;
+  font-family: serif;
 }

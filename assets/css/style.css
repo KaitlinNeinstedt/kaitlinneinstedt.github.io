@@ -49,6 +49,11 @@ h1 {
   color: white;
   font-size: 150px;
   text-align: center;
-  font-family: serif;
+  font-family: serif
+}
 
+#contactparagraph {
+  color: red;
+  font-size: 20px;
+font-family: sans-serif;
 }
